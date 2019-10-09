@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <student>
+        <id>1</id>
+        <firstName>Cosmin</firstName>
+        <lastName>Tanislav</lastName>
+        <email>tcir2625@scs.ubbcluj.ro</email>
+        <group>227</group>
+        <professorName>Sergiu</professorName>
+        <motivatedWeeks>
+            <motivatedWeek>7</motivatedWeek>
+        </motivatedWeeks>
+    </student>
+    <student>
+        <id>2</id>
+        <firstName>Christian</firstName>
+        <lastName>Tatoiu</lastName>
+        <email>tcir2625@scs.ubbcluj.ro</email>
+        <group>227</group>
+        <professorName>Sergiu</professorName>
+        <motivatedWeeks/>
+    </student>
+    <student>
+        <id>3</id>
+        <firstName>Teodor</firstName>
+        <lastName>Spiridon</lastName>
+        <email>stir2626@scs.ubbcluj.ro</email>
+        <group>227</group>
+        <professorName>Sergiu</professorName>
+        <motivatedWeeks/>
+    </student>
+</root>
